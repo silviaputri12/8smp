@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Materi SPLDV Kelas 8 SMP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f0f8ff;
+      color: #333;
+    }
+    h1 {
+      color: #2e8b57;
+    }
+    h2 {
+      color: #4682b4;
+    }
+    p, li {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Materi SPLDV Kelas 8 SMP</h1>
+
+  <h2>Apa itu SPLDV?</h2>
+  <p>Sistem Persamaan Linear Dua Variabel (SPLDV) adalah sistem yang terdiri dari dua persamaan linear dengan dua variabel.</p>
+  <p>Bentuk umum SPLDV:</p>
+  <p><strong>a₁x + b₁y = c₁</strong><br>
+     <strong>a₂x + b₂y = c₂</strong></p>
+
+  <h2>Contoh:</h2>
+  <p>Persamaan 1: 2x + 3y = 12<br>
+     Persamaan 2: x - y = 1</p>
+
+  <h2>Metode Penyelesaian SPLDV:</h2>
+  <ul>
+    <li><strong>
